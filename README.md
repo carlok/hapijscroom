@@ -25,3 +25,4 @@
 * a "mocker" for swagger?
 * SES review return in [https://gist.github.com/carlok/72f19878a503fedd22a0cc92d604c2a2#file-hapi-awsses-js-L29](https://gist.github.com/carlok/72f19878a503fedd22a0cc92d604c2a2#file-hapi-awsses-js-L29)
 * node/hapi: memory footprint? memory leakage? info?
+* ask hapi use takeover with/without pre/handler (!)
