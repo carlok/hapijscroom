@@ -1,0 +1,22 @@
+{
+  "name": "hapijscroom",
+  "version": "0.0.1",
+  "description": "aaaa",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "nodemon lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlok/hapijscroom.git"
+  },
+  "author": "Carlo Perassi <carlo.perassi@kiwifarm.it>",
+  "license": "ISC",
+  "homepage": "https://github.com/carlok/hapijscroom",
+  "dependencies": {
+    "hapi": "16.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  }
+}
