@@ -1,0 +1,17 @@
+{
+  "name": "redux_ck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node --color --forceexit --verbose spec",
+    "cover": "istanbul cover jasmine-node --color --forceexit --verbose spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "0.4.5",
+    "jasmine-node": "1.14.5"
+  }
+}

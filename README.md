@@ -17,6 +17,8 @@
 * [AWS SES example promisification](https://gist.github.com/carlok/72f19878a503fedd22a0cc92d604c2a2)
 * Folder structure: hints [https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef](https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef)
 
+# ORM and the like
+* sqlize, knex, bookshelf
 
 # System notes
 * [https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
